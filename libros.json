@@ -1,0 +1,838 @@
+{
+  "books": [     
+      {
+      "title": "The Catcher in the Rye",
+      "author": {
+            "name": "J.D. Salinger",
+            "birth_year": 1919,
+            "nationality": "American"
+      },
+      "genre": ["Fiction", "Coming-of-age"],
+      "publication": {
+            "publisher": "Little, Brown and Company",
+            "year": 1951,
+            "language": "English"
+      },
+      "isbn": {
+            "10": "0-316-76948-7",
+            "13": "978-0-316-76948-0"
+      },
+      "characters": [
+        {
+          "name": "Holden Caulfield",
+          "description": "The protagonist and narrator. A sixteen-year-old boy."
+        },
+        {
+          "name": "Phoebe Caulfield",
+          "description": "Holden's ten-year-old sister. Intelligent and understanding."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "A classic coming-of-age story with a memorable protagonist."
+        },
+        {
+          "rating": 30,
+          "comment": "Didn't connect with the protagonist's voice, but appreciated the themes."
+        }
+      ]
+    },
+    
+
+    
+    {
+      "title": "The Lord of the Rings",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birth_year": 1892,
+        "nationality": "English"
+      },
+      "genre": ["Fantasy", "Adventure"],
+      "publication": {
+        "publisher": "George Allen & Unwin",
+        "year": 1954,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-395-19395-8",
+        "13": "978-0-395-19395-7"
+      },
+      "characters": [
+        {
+          "name": "Frodo Baggins",
+          "description": "The main protagonist. A hobbit tasked with destroying the One Ring."
+        },
+        {
+          "name": "Gandalf",
+          "description": "A wizard who guides the fellowship on their quest."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 50,
+          "comment": "A masterpiece of fantasy literature, with rich world-building and memorable characters."
+        },
+        {
+          "rating": 40,
+          "comment": "Enjoyed the epic journey, but found some parts slow-paced."
+        }
+      ]
+    },
+    
+    
+    
+
+    {
+      "title": "To Kill a Mockingbird",
+      "author": {
+        "name": "Harper Lee",
+        "birth_year": 1926,
+        "nationality": "American"
+      },
+      "genre": ["Fiction", "Legal story"],
+      "publication": {
+        "publisher": "J. B. Lippincott & Co.",
+        "year": 1960,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-553-20650-3",
+        "13": "978-0-553-20650-5"
+      },
+      "characters": [
+        {
+          "name": "Scout Finch",
+          "description": "The narrator and protagonist. A young girl."
+        },
+        {
+          "name": "Atticus Finch",
+          "description": "Scout's father. A lawyer who advocates for racial justice."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 48,
+          "comment": "Powerful narrative on race and morality. Unforgettable characters."
+        },
+        {
+          "rating": 43,
+          "comment": "Insightful and poignant. A must-read for its profound messages."
+        }
+      ]
+    },
+    
+    
+    
+
+    {
+      "title": "1984",
+      "author": {
+        "name": "George Orwell",
+        "birth_year": 1903,
+        "nationality": "English"
+      },
+      "genre": ["Dystopian", "Political fiction"],
+      "publication": {
+        "publisher": "Secker & Warburg",
+        "year": 1949,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-452-28423-6",
+        "13": "978-0-452-28423-4"
+      },
+      "characters": [
+        {
+          "name": "Winston Smith",
+          "description": "The protagonist. A member of the outer party, critical of the regime."
+        },
+        {
+          "name": "Big Brother",
+          "description": "The omnipresent authority figure and leader of the totalitarian regime."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 49,
+          "comment": "A chilling portrayal of totalitarianism and state control."
+        },
+        {
+          "rating": 42,
+          "comment": "Engrossing and terrifying. Highly relevant today."
+        }
+      ]
+    },
+    
+
+
+
+    {
+      "title": "Pride and Prejudice",
+      "author": {
+        "name": "Jane Austen",
+        "birth_year": 1775,
+        "nationality": "English"
+      },
+      "genre": ["Romance", "Fiction"],
+      "publication": {
+        "publisher": "T. Egerton, Whitehall",
+        "year": 1813,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-671-53220-5",
+        "13": "978-0-671-53220-9"
+      },
+      "characters": [
+        {
+          "name": "Elizabeth Bennet",
+          "description": "The protagonist. Known for her wit, intelligence, and strong moral character."
+        },
+        {
+          "name": "Mr. Darcy",
+          "description": "A wealthy gentleman with a proud and aloof demeanor."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "A brilliant examination of manners and marriage. Elizabeth Bennet is a timeless character."
+        },
+        {
+          "rating": 40,
+          "comment": "Witty and engaging, though the pacing might feel slow to modern readers."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Fahrenheit 451",
+      "author": {
+        "name": "Ray Bradbury",
+        "birth_year": 1920,
+        "nationality": "American"
+      },
+      "genre": ["Dystopian", "Science Fiction"],
+      "publication": {
+        "publisher": "Ballantine Books",
+        "year": 1953,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-345-34296-8",
+        "13": "978-0-345-34296-6"
+      },
+      "characters": [
+        {
+          "name": "Guy Montag",
+          "description": "The protagonist, a fireman whose job is to burn books."
+        },
+        {
+          "name": "Clarisse McClellan",
+          "description": "A young neighbor who opens Montag's eyes to the richness of life."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 46,
+          "comment": "A powerful critique of censorship and societal conformity."
+        },
+        {
+          "rating": 41,
+          "comment": "Provocative and unsettling, a must-read for its prescient themes."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Brave New World",
+      "author": {
+        "name": "Aldous Huxley",
+        "birth_year": 1894,
+        "nationality": "English"
+      },
+      "genre": ["Dystopian", "Science Fiction"],
+      "publication": {
+        "publisher": "Chatto & Windus",
+        "year": 1932,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-06-085052-3",
+        "13": "978-0-06-085052-4"
+      },
+      "characters": [
+        {
+          "name": "Bernard Marx",
+          "description": "An Alpha male who feels isolated due to his stature and unorthodox beliefs."
+        },
+        {
+          "name": "John the Savage",
+          "description": "Raised outside the World State; struggles with its principles of consumerism and social order."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 47,
+          "comment": "A chilling dystopian story that explores the pitfalls of technological advancement and social engineering."
+        },
+        {
+          "rating": 39,
+          "comment": "Intellectually stimulating, though the characters can feel a bit distant."
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "title": "Crime and Punishment",
+      "author": {
+        "name": "Fyodor Dostoevsky",
+        "birth_year": 1821,
+        "nationality": "Russian"
+      },
+      "genre": ["Philosophical novel", "Crime"],
+      "publication": {
+        "publisher": "The Russian Messenger",
+        "year": 1866,
+        "language": "Russian"
+      },
+      "isbn": {
+        "10": "0-486-41116-6",
+        "13": "978-0-486-41116-0"
+      },
+      "characters": [
+        {
+          "name": "Raskolnikov",
+          "description": "A former student, troubled and impoverished, who commits a murder."
+        },
+        {
+          "name": "Sonia Marmeladova",
+          "description": "A gentle and compassionate young woman who becomes Raskolnikov’s confidant."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 48,
+          "comment": "A deep psychological exploration of morality, guilt, and redemption."
+        },
+        {
+          "rating": 43,
+          "comment": "Dense and demanding, but incredibly rewarding and thought-provoking."
+        }
+      ]
+    },
+    
+
+
+
+    {
+      "title": "The Great Gatsby",
+      "author": {
+        "name": "F. Scott Fitzgerald",
+        "birth_year": 1896,
+        "nationality": "American"
+      },
+      "genre": ["Novel", "Historical Fiction"],
+      "publication": {
+        "publisher": "Charles Scribner's Sons",
+        "year": 1925,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-7432-7356-7",
+        "13": "978-0-7432-7356-5"
+      },
+      "characters": [
+        {
+          "name": "Jay Gatsby",
+          "description": "A wealthy man with mysterious business connections, famous for his lavish parties."
+        },
+        {
+          "name": "Nick Carraway",
+          "description": "The narrator, a Yale graduate and World War I veteran."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "A poignant critique of the American Dream, filled with symbolism and complex characters."
+        },
+        {
+          "rating": 40,
+          "comment": "Elegantly written, though the storyline can seem superficial at times."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Moby Dick",
+      "author": {
+        "name": "Herman Melville",
+        "birth_year": 1819,
+        "nationality": "American"
+      },
+      "genre": ["Adventure Fiction", "Epic"],
+      "publication": {
+        "publisher": "Harper & Brothers",
+        "year": 1851,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-14-243724-7",
+        "13": "978-0-14-243724-7"
+      },
+      "characters": [
+        {
+          "name": "Captain Ahab",
+          "description": "The monomaniacal sea captain obsessed with hunting the white whale, Moby Dick."
+        },
+        {
+          "name": "Ishmael",
+          "description": "The narrator, who joins the whale hunt to explore the world."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 46,
+          "comment": "A profound allegory rich with symbolism and complex themes."
+        },
+        {
+          "rating": 41,
+          "comment": "Challenging in its style and detail but a rewarding epic."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Jane Eyre",
+      "author": {
+        "name": "Charlotte Brontë",
+        "birth_year": 1816,
+        "nationality": "English"
+      },
+      "genre": ["Gothic", "Romance"],
+      "publication": {
+        "publisher": "Smith, Elder & Co.",
+        "year": 1847,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-14-243720-4",
+        "13": "978-0-14-243720-9"
+      },
+      "characters": [
+        {
+          "name": "Jane Eyre",
+          "description": "An orphan who becomes a governess and falls in love with her employer, Mr. Rochester."
+        },
+        {
+          "name": "Mr. Rochester",
+          "description": "Jane's employer and the brooding master of Thornfield Hall."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 47,
+          "comment": "A groundbreaking work of feminism and social criticism, wrapped in a haunting gothic romance."
+        },
+        {
+          "rating": 43,
+          "comment": "Intense and emotional, with powerful themes of love, independence, and moral integrity."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "The Grapes of Wrath",
+      "author": {
+        "name": "John Steinbeck",
+        "birth_year": 1902,
+        "nationality": "American"
+      },
+      "genre": ["Historical Fiction", "Social Commentary"],
+      "publication": {
+        "publisher": "The Viking Press-James Lloyd",
+        "year": 1939,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-14-303943-1",
+        "13": "978-0-14-303943-3"
+      },
+      "characters": [
+        {
+          "name": "Tom Joad",
+          "description": "A paroled convict who becomes the protagonist, struggling with the economic hardships of the time."
+        },
+        {
+          "name": "Ma Joad",
+          "description": "The matriarch of the Joad family, strong and nurturing."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 48,
+          "comment": "An evocative portrayal of the Great Depression and the struggles of the American working class."
+        },
+        {
+          "rating": 42,
+          "comment": "Deeply moving and sometimes heartbreaking, but always powerfully human."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "birth_year": 1927,
+        "nationality": "Colombian"
+      },
+      "genre": ["Magical Realism", "Epic"],
+      "publication": {
+        "publisher": "Harper & Row",
+        "year": 1970,
+        "language": "Spanish",
+        "translated_language": "English"
+      },
+      "isbn": {
+        "10": "0-06-088328-6",
+        "13": "978-0-06-088328-7"
+      },
+      "characters": [
+        {
+          "name": "José Arcadio Buendía",
+          "description": "The patriarch who founded the town of Macondo, the novel’s setting."
+        },
+        {
+          "name": "Aureliano Buendía",
+          "description": "One of José Arcadio's sons, who becomes a key figure through the novel’s many generations."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 49,
+          "comment": "A mesmerizing, beautifully written novel that blends the personal with the mythological."
+        },
+        {
+          "rating": 45,
+          "comment": "A dense, challenging read, full of rich characters and magical elements."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Anna Karenina",
+      "author": {
+        "name": "Leo Tolstoy",
+        "birth_year": 1828,
+        "nationality": "Russian"
+      },
+      "genre": ["Realist Novel", "Romance"],
+      "publication": {
+        "publisher": "The Russian Messenger",
+        "year": 1877,
+        "language": "Russian"
+      },
+      "isbn": {
+        "10": "0-679-78332-9",
+        "13": "978-0-679-78332-4"
+      },
+      "characters": [
+        {
+          "name": "Anna Karenina",
+          "description": "A high-society woman who struggles with her life choices and desires."
+        },
+        {
+          "name": "Alexei Karenin",
+          "description": "Anna's husband, a government official who is reserved and rational."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 47,
+          "comment": "A tragic and complex exploration of love, fidelity, and the pressures of society."
+        },
+        {
+          "rating": 43,
+          "comment": "Tolstoy's narrative captures the breadth of human emotion in exquisite detail."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Catch-22",
+      "author": {
+        "name": "Joseph Heller",
+        "birth_year": 1923,
+        "nationality": "American"
+      },
+      "genre": ["Satire", "Historical Fiction"],
+      "publication": {
+        "publisher": "Simon & Schuster",
+        "year": 1961,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-684-83339-5",
+        "13": "978-0-684-83339-9"
+      },
+      "characters": [
+        {
+          "name": "Captain John Yossarian",
+          "description": "A bombardier in World War II who is desperate to survive and return home."
+        },
+        {
+          "name": "Milo Minderbinder",
+          "description": "A war profiteer who embodies the absurdity and hypocrisy of bureaucracy."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 48,
+          "comment": "A biting satire on the absurdity of war and the madness of bureaucracy."
+        },
+        {
+          "rating": 44,
+          "comment": "Hilariously funny and deeply disturbing at the same time. A unique narrative style."
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Wuthering Heights",
+      "author": {
+        "name": "Emily Brontë",
+        "birth_year": 1818,
+        "nationality": "British"
+      },
+      "genre": ["Gothic Fiction", "Tragedy"],
+      "publication": {
+        "publisher": "Thomas Cautley Newby",
+        "year": 1847,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-553-21339-3",
+        "13": "978-0-553-21339-8"
+      },
+      "characters": [
+        {
+          "name": "Heathcliff",
+          "description": "An orphan taken in by the Earnshaw family, whose passionate and tormented love for Catherine Earnshaw leads to his ruin."
+        },
+        {
+          "name": "Catherine Earnshaw",
+          "description": "A spirited and strong-willed woman whose deep love for Heathcliff causes lifelong turmoil."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "A dark and powerful novel that brilliantly explores the complexities of human emotions and desires."
+        },
+        {
+          "rating": 42,
+          "comment": "A timeless masterpiece capturing the destructive nature of passion and jealousy."
+        }
+      ]
+    },
+
+
+
+    {
+      "title": "Les Misérables",
+      "author": {
+        "name": "Victor Hugo",
+        "birth_year": 1802,
+        "nationality": "French"
+      },
+      "genre": ["Historical Novel", "Social Criticism"],
+      "publication": {
+        "publisher": "A. Lacroix, Verboeckhoven & Cie",
+        "year": 1862,
+        "language": "French"
+      },
+      "isbn": {
+        "10": "0-679-72289-2",
+        "13": "978-0-679-72289-3"
+      },
+      "characters": [
+        {
+          "name": "Jean Valjean",
+          "description": "A former convict who struggles to escape his past and become a force for good."
+        },
+        {
+          "name": "Javert",
+          "description": "A police inspector whose rigid adherence to law and order leads him to pursue Valjean relentlessly."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 48,
+          "comment": "An epic saga of redemption and human compassion, set against the backdrop of 19th-century France."
+        },
+        {
+          "rating": 46,
+          "comment": "Hugo's rich narrative weaves a compelling tale of justice, morality, and social inequality."
+        }
+      ]
+    },
+
+
+
+    {
+      "title": "Frankenstein",
+      "author": {
+        "name": "Mary Shelley",
+        "birth_year": 1797,
+        "nationality": "British"
+      },
+      "genre": ["Gothic Novel", "Science Fiction"],
+      "publication": {
+        "publisher": "Lackington, Hughes, Harding, Mavor, & Jones",
+        "year": 1818,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-812-97947-8",
+        "13": "978-0-812-97947-4"
+      },
+      "characters": [
+        {
+          "name": "Victor Frankenstein",
+          "description": "A young scientist who creates a grotesque creature in an unorthodox scientific experiment."
+        },
+        {
+          "name": "The Monster",
+          "description": "A creation of Victor Frankenstein's madness, rejected by society and desperate for companionship."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 43,
+          "comment": "Shelley's novel raises profound questions about the boundaries of science and the ethics of creation."
+        },
+        {
+          "rating": 41,
+          "comment": "A haunting story of ambition, humanity, and fear, told with compelling intensity."
+        }
+      ]
+    },
+
+
+
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": {
+        "name": "Mark Twain",
+        "birth_year": 1835,
+        "nationality": "American"
+      },
+      "genre": ["Picaresque Novel", "Adventure"],
+      "publication": {
+        "publisher": "Charles L. Webster And Company",
+        "year": 1884,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-14-243717-4",
+        "13": "978-0-14-243717-9"
+      },
+      "characters": [
+        {
+          "name": "Huckleberry Finn",
+          "description": "A young boy who fakes his own death to escape his abusive father and journeys down the Mississippi River."
+        },
+        {
+          "name": "Jim",
+          "description": "A runaway slave who joins Huck on his adventures, providing friendship and protection."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 47,
+          "comment": "Twain's novel is a profound exploration of race and identity in America, wrapped in the guise of a boy's adventure story."
+        },
+        {
+          "rating": 45,
+          "comment": "A cornerstone of American literature, celebrated for its vibrant characterization and its critique of societal norms."
+        }
+      ]
+    },
+
+
+
+    {
+      "title": "Dracula",
+      "author": {
+        "name": "Bram Stoker",
+        "birth_year": 1847,
+        "nationality": "Irish"
+      },
+      "genre": ["Gothic Novel", "Horror"],
+      "publication": {
+        "publisher": "Archibald Constable and Company",
+        "year": 1897,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-451-52687-6",
+        "13": "978-0-451-52687-4"
+      },
+      "characters": [
+        {
+          "name": "Count Dracula",
+          "description": "A centuries-old vampire who travels from Transylvania to England to spread his undead curse."
+        },
+        {
+          "name": "Van Helsing",
+          "description": "A Dutch professor and vampire hunter who leads the quest to thwart Dracula's plans."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "Stoker's novel is not just a horror story but a timeless allegory of the fears and anxieties of the Victorian era."
+        },
+        {
+          "rating": 42,
+          "comment": "A chilling masterpiece that has defined the vampire genre and continues to terrify readers today."
+        }
+      ]
+    }
+  ]
+}
+  

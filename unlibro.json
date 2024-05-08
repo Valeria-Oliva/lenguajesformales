@@ -1,0 +1,81 @@
+{
+  "books": [     
+      {
+      "title": "The Catcher in the Rye",
+      "author": {
+            "name": "J.D. Salinger",
+            "birth_year": 1919,
+            "nationality": "American"
+      },
+      "genre": ["Fiction", "Coming-of-age"],
+      "publication": {
+            "publisher": "Little, Brown and Company",
+            "year": 1951,
+            "language": "English"
+      },
+      "isbn": {
+            "10": "0-316-76948-7",
+            "13": "978-0-316-76948-0"
+      },
+      "characters": [
+        {
+          "name": "Holden Caulfield",
+          "description": "The protagonist and narrator. A sixteen-year-old boy."
+        },
+        {
+          "name": "Phoebe Caulfield",
+          "description": "Holden's ten-year-old sister. Intelligent and understanding."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 45,
+          "comment": "A classic coming-of-age story with a memorable protagonist."
+        },
+        {
+          "rating": 30,
+          "comment": "Didn't connect with the protagonist's voice, but appreciated the themes."
+        }
+      ]
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birth_year": 1892,
+        "nationality": "English"
+      },
+      "genre": ["Fantasy", "Adventure"],
+      "publication": {
+        "publisher": "George Allen & Unwin",
+        "year": 1954,
+        "language": "English"
+      },
+      "isbn": {
+        "10": "0-395-19395-8",
+        "13": "978-0-395-19395-7"
+      },
+      "characters": [
+        {
+          "name": "Frodo Baggins",
+          "description": "The main protagonist. A hobbit tasked with destroying the One Ring."
+        },
+        {
+          "name": "Gandalf",
+          "description": "A wizard who guides the fellowship on their quest."
+        }
+      ],
+      "reviews": [
+        {
+          "rating": 50,
+          "comment": "A masterpiece of fantasy literature, with rich world-building and memorable characters."
+        },
+        {
+          "rating": 40,
+          "comment": "Enjoyed the epic journey, but found some parts slow-paced."
+        }
+      ]
+    }
+  ]
+}
+  
